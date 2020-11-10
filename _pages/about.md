@@ -18,6 +18,6 @@ I am broadly interested in building fast, robust systems. Currently, I am workin
 
 Publications
 ======
-**[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**
-Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.
+**[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
+Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.\
 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 20](https://www.usenix.org/conference/osdi20)).
