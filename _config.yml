@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nanqinqin Homepage"
+title                    : "Nanqinqin's Homepage"
 title_separator          : "-"
 name                     : &name "Nanqinqin Li"
 description              : &description "personal description"
