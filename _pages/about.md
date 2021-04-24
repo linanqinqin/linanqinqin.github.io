@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 # Bio
-My name is Nanqinqin Li (pronunciation: nan-CHING-ching, Chinese: 李南沁沁). I am a first-year Ph.D. student at Princeton University, working on systems research in [Princeton SNS Group](https://sns.princeton.edu/). I received my M.S. degree from the University of Chicago where I worked with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on combating the notorious tail latency problem of solid-state drives. I got my B.Eng degree from Beijing University of Posts and Telecommunications.
+My name is Nanqinqin Li (pronunciation: nan-CHING-ching, Chinese: 李南沁沁). I am a first-year Ph.D. student at Princeton University advised by [Prof. Michael Freedman](https://www.cs.princeton.edu/~mfreed/) on systems research in [Princeton SNS Group](https://sns.princeton.edu/). I received my M.S. degree from the University of Chicago where I worked with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on combating the notorious tail latency problem of solid-state drives. I got my B.Eng degree from Beijing University of Posts and Telecommunications.
 
 # Research interests
-I am broadly interested in building fast, robust systems. Currently, I am working on cloud/serverless computing research with emerging storage technologies (e.g., disaggregated storage).
+I am broadly interested in building fast, robust systems. Currently, I am working on cloud/serverless computing with emerging storage technologies (e.g., disaggregated storage).
 
 # Publications
 - **[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
