@@ -15,6 +15,9 @@ My name is Nanqinqin Li (pronunciation: nan-CHING-ching, Chinese: 李南沁沁).
 I am broadly interested in building fast, robust systems. Currently, I am working on cloud/serverless computing with emerging storage technologies (e.g., disaggregated storage).
 
 # Publications
+- \[To appear\] **Fantastic SSD Internals and How to Learn and Use Them**\
+<ins>Nanqinqin Li</ins>, Mingzhe Hao, Huaicheng Li, Xing Lin, Tim Emami, and Haryadi S. Gunawi.\
+The 15th ACM International Systems and Storage Conference ([SYSTOR 22](https://www.systor.org/2022/)).
 - **[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
 Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.\
-14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 20](https://www.usenix.org/conference/osdi20)).
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 20](https://www.usenix.org/conference/osdi20)).
