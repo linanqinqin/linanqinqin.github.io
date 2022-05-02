@@ -18,7 +18,7 @@ I am broadly interested in building fast, robust systems. Currently, I am workin
 
 # Publications
 - \[To appear\] **Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage**\
-<ins>Nanqinqin Li</ins>, Anja Kalaba, Michael J. Freedman, Wyatt Lloyd, Amit Levy.\
+<ins>Nanqinqin Li</ins>, Anja Kalaba, Michael J. Freedman, Wyatt Lloyd, and Amit Levy.\
 The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/conference/atc22)).
 - \[To appear\] **Fantastic SSD Internals and How to Learn and Use Them**\
 <ins>Nanqinqin Li</ins>, Mingzhe Hao, Huaicheng Li, Xing Lin, Tim Emami, and Haryadi S. Gunawi.\
