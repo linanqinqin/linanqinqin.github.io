@@ -17,6 +17,8 @@ I received my M.S. degree from the University of Chicago advised by [Prof. Harya
 I am broadly interested in building fast, robust systems with a focus on storage. Currently, I am working on cloud/serverless computing with emerging storage technologies (e.g., disaggregated storage).
 
 # Publications
+
+### Peer-reviewed
 - \[To appear\] **Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage**\
 <ins>Nanqinqin Li</ins>, Anja Kalaba, Michael J. Freedman, Wyatt Lloyd, and Amit Levy.\
 The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/conference/atc22)).
@@ -26,3 +28,7 @@ The 15th ACM International Systems and Storage Conference ([SYSTOR '22](https://
 - **[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
 Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.\
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20)).
+
+### arXiv
+- **[How Low Can You Go? Practical cold-start performance limits in FaaS](https://arxiv.org/abs/2109.13319)**\
+Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.
