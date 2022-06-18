@@ -23,7 +23,7 @@ I am broadly interested in building fast, robust systems with a focus on storage
 The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/conference/atc22)).
 - **[Fantastic SSD Internals and How to Learn and Use Them](https://dl.acm.org/doi/pdf/10.1145/3534056.3534940)**\
 <ins>Nanqinqin Li</ins>, Mingzhe Hao, Huaicheng Li, Xing Lin, Tim Emami, and Haryadi S. Gunawi.\
-The 15th ACM International Systems and Storage Conference ([SYSTOR '22](https://www.systor.org/2022/)) ***<span style="color:brown">Best Paper Award</span>***.
+The 15th ACM International Systems and Storage Conference ([SYSTOR '22](https://www.systor.org/2022/) ***<span style="color:brown">Best Paper Award</span>***).
 - **[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
 Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.\
 The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20)).
