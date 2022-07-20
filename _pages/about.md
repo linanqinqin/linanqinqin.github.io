@@ -18,9 +18,10 @@ I am broadly interested in building fast, robust systems with a focus on storage
 
 # Publications
 ### Peer-reviewed
-- \[To appear\] **Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage**\
+- **Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage**\
 <ins>Nanqinqin Li</ins>, Anja Kalaba, Michael J. Freedman, Wyatt Lloyd, and Amit Levy.\
-The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/conference/atc22)).
+The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/conference/atc22)).\
+\[[paper](https://www.usenix.org/system/files/atc22-li-nanqinqin.pdf)\]\[talk\]\[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_li_nanqinqin.pdf)\]\[[code](https://github.com/princeton-sns/specreds)\]\[[bib](https://www.usenix.org/conference/atc22/presentation/li-nanqinqin)\]
 - \[***<span style="color:brown">Best Paper Award</span>***\] **[Fantastic SSD Internals and How to Learn and Use Them](https://dl.acm.org/doi/pdf/10.1145/3534056.3534940)**\
 <ins>Nanqinqin Li</ins>, Mingzhe Hao, Huaicheng Li, Xing Lin, Tim Emami, and Haryadi S. Gunawi.\
 The 15th ACM International Systems and Storage Conference ([SYSTOR '22](https://www.systor.org/2022/)).
