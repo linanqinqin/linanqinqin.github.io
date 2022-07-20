@@ -32,7 +32,7 @@ The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 
 \[[paper](https://www.usenix.org/system/files/osdi20-hao.pdf)\]\[[talk (Mingzhe Hao)](https://youtu.be/yzv9lcjxhAg)\]\[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_hao.pdf)\]\[[code](https://www.chameleoncloud.org/experiment/share/15?s=409ab137f20e4cd38ae3dd4e0d4bfa7c)\]\[[bib](https://www.usenix.org/conference/osdi20/presentation/hao)\]
 
 ### arXiv
-- **[How Low Can You Go? Practical cold-start performance limits in FaaS](https://arxiv.org/abs/2109.13319)**\
+- **How Low Can You Go? Practical cold-start performance limits in FaaS**\
 Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.\
 \[[paper](https://arxiv.org/pdf/2109.13319.pdf)\]\[[code](https://github.com/princeton-sns/snapfaas)\]\[[bib](https://arxiv.org/abs/2109.13319)\]
 
