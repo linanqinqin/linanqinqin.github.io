@@ -33,7 +33,8 @@ The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 
 
 ### arXiv
 - **[How Low Can You Go? Practical cold-start performance limits in FaaS](https://arxiv.org/abs/2109.13319)**\
-Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.
+Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.\
+\[[paper](https://arxiv.org/pdf/2109.13319.pdf)\]\[[code](https://github.com/princeton-sns/snapfaas)\]\[[bib](https://arxiv.org/abs/2109.13319)\]
 
 # Teaching
 - Princeton University, COS 461 Computer Networks, Teaching Assistant, Fall 2021.
