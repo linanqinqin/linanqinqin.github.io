@@ -26,9 +26,10 @@ The 2022 USENIX Annual Technical Conference ([ATC '22](https://www.usenix.org/co
 <ins>Nanqinqin Li</ins>, Mingzhe Hao, Huaicheng Li, Xing Lin, Tim Emami, and Haryadi S. Gunawi.\
 The 15th ACM International Systems and Storage Conference ([SYSTOR '22](https://www.systor.org/2022/)).\
 \[[paper](https://dl.acm.org/doi/pdf/10.1145/3534056.3534940)\]\[[code](https://github.com/ucare-uchicago/Queenie)\]\[[bib](https://dl.acm.org/doi/abs/10.1145/3534056.3534940)\]
-- **[LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)**\
+- **LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network**\
 Mingzhe Hao, Levent Toksoz, <ins>Nanqinqin Li</ins>, Edward Edberg, Henry Hoffmann, and Haryadi S. Gunawi.\
-The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20)).
+The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI '20](https://www.usenix.org/conference/osdi20)).\
+\[[paper](https://www.usenix.org/system/files/osdi20-hao.pdf)\]\[[talk (Mingzhe Hao)](https://youtu.be/yzv9lcjxhAg)\]\[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_hao.pdf)\]\[[code](https://www.chameleoncloud.org/experiment/share/15?s=409ab137f20e4cd38ae3dd4e0d4bfa7c)\]\[[bib](https://www.usenix.org/conference/osdi20/presentation/hao)\]
 
 ### arXiv
 - **[How Low Can You Go? Practical cold-start performance limits in FaaS](https://arxiv.org/abs/2109.13319)**\
