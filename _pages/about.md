@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 # Bio
-My name is Nanqinqin Li (pronunciation: nan-CHIN-CHin, Chinese: 李南沁沁). I am a second-year Ph.D. student at Princeton University advised by [Prof. Michael Freedman](https://www.cs.princeton.edu/~mfreed/) on systems research in [Princeton SNS Group](https://sns.princeton.edu/) (also working closely with [Prof. Amit Levy](https://www.amitlevy.com/) and [Prof. Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/)). 
+My name is Nanqinqin Li (pronunciation: nan-CHIN-CHin, Chinese: 李南沁沁). I am a Ph.D. candidate at Princeton University advised by [Prof. Michael Freedman](https://www.cs.princeton.edu/~mfreed/) on systems research in [Princeton SNS Group](https://sns.princeton.edu/) (also working closely with [Prof. Amit Levy](https://www.amitlevy.com/) and [Prof. Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/)). 
 
 I received my M.S. degree from the University of Chicago advised by [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on combating the notorious tail latency problem of solid-state drives. I got my B.Eng degree from Beijing University of Posts and Telecommunications.
 
 # Research interests
-I am broadly interested in building fast, robust systems with a focus on storage. Currently, I am working on cloud/serverless computing with emerging storage technologies (e.g., disaggregated storage).
+I am broadly interested in building fast, robust systems with a focus on storage. Currently, I am working on cloud/serverless computing with emerging storage and memory technologies (e.g., CXL).
 
 # Publications
 ### Peer-reviewed
