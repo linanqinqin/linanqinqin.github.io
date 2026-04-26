@@ -44,7 +44,9 @@ The 14th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 
 Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.\
 \[[paper](https://arxiv.org/pdf/2109.13319.pdf)\]\[[code](https://github.com/princeton-sns/snapfaas)\]\[[bib](https://arxiv.org/abs/2109.13319)\]
 
+# Services
+- Artifact Evaluation PC - OSDI 2026
+
 # Teaching
-- Princeton University, COS 461 Computer Networks, Teaching Assistant, Fall 2021.
-- Princeton University, COS 418 Distributed Systems, Teaching Assistant, Spring 2022.
+- Princeton University - COS 461, 418/518, 126, 217, 316
 
