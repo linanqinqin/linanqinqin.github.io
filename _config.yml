@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nanqinqin's Homepage"
+title                    : "Nan's Homepage"
 title_separator          : "-"
 name                     : &name "Nanqinqin Li"
 description              : &description "personal description"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nanqinqin Li"
   avatar           : "navy-pier.jpg"
-  bio              : "Soccer fan & Gamer"
+  bio              : "Soccer fan & Gamer, and Systems Researcher on the side"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=PfPez4AAAAAJ"
   email            : linanqinqin (at) princeton (dot) edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
