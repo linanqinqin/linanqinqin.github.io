@@ -51,7 +51,10 @@ Yue Tan, David Liu, <ins>Nanqinqin Li</ins>, and Amit Levy.\
 \[[paper](https://arxiv.org/pdf/2109.13319.pdf)\]\[[code](https://github.com/princeton-sns/snapfaas)\]\[[bib](https://arxiv.org/abs/2109.13319)\]
 
 # Services
-- Artifact Evaluation PC - OSDI 2026
+- External Reviewer
+    - ICDM 2026
+- Artifact Evaluation PC
+    - OSDI 2026
 
 # Teaching
 - Princeton University - COS 461, 418/518, 126, 217, 316
