@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 # Bio
-My name is Nanqinqin Li (Chinese: 李南沁沁). I am a Research Scientist at ByteDance, working on the next-generation memory architectures for AI and agentic workloads.
+My name is Nanqinqin Li (Chinese: 李南沁沁). I am a Founding Research Scientist at a stealth startup, building next-gen CPU infrastructures for agentic workloads.
 I got my Ph.D. in CS from Princeton University, advised by [Prof. Michael Freedman](https://www.cs.princeton.edu/~mfreed/) on systems research in [Princeton SNS Group](https://sns.princeton.edu/). 
 I also worked closely with [Prof. Amit Levy](https://www.amitlevy.com/), [Prof. Wyatt Lloyd](https://www.cs.princeton.edu/~wlloyd/), and [Prof. Asaf Cidon](https://www.asafcidon.com/)(Columbia). 
 
 I received my M.S. degree from the University of Chicago advised by [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on combating the notorious tail latency problem of solid-state drives. I got my B.Eng degree from Beijing University of Posts and Telecommunications.
 
 # Research interests
-I am broadly interested in building fast, robust systems with emerging memory and storage technologies (e.g., CXL). My current project focuses on reducing CPU idle time when CXL introduces higher memory access latency.
+I am broadly interested in building fast, robust systems with emerging memory and storage technologies (e.g., CXL). My most recent project in my PhD focuses on reducing CPU idle time when CXL introduces higher memory access latency.
 
 # Publications
 ### Peer-reviewed
